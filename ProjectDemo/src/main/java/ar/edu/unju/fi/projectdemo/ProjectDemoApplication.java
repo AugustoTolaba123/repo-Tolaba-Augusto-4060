@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.pvisual;
+package ar.edu.unju.fi.projectdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
